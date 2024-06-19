@@ -81,7 +81,7 @@
 
 Выполним команду:
 
-    d:\3\venv\Scripts\comfy emv
+    d:\3\venv\Scripts\comfy env
 
 ... и получим окно с текущими настройками Comfy.
 
