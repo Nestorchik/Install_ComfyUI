@@ -56,5 +56,5 @@
 
     d:\3\venv\Scripts\comfy install
 	
-... и начнется установка ComfyUI в папку "Документы\ComfyUI" (%DocumentsFolder%\ComfyUI) текущего пользователя.
+... и начнется установка ComfyUI в папку "Документы\comfy\ComfyUI" (%DocumentsFolder%\comfy\ComfyUI) текущего пользователя.
 	
