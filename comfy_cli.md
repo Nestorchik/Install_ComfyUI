@@ -32,4 +32,6 @@
 
 >Устанавливаем "Comfy-Cli" - инструмент командной строки для ComfyUI
 
-d:\3\venv\Scripts\python
+    d:\3\venv\Scripts\python -m pip install comfy-cli
+	
+	
