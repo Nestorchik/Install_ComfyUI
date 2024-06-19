@@ -89,3 +89,11 @@
   <img src="img_cli/005.jpg">
 </p>
 
+Следующая команда запускает ComfyUI:
+
+    d:\3\venv\Scripts\comfy launch
+	
+<p align="center">
+  <img src="img_cli/006.jpg">
+</p>
+	
