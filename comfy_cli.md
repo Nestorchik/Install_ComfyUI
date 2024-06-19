@@ -54,6 +54,3 @@
 
 Выполняем команды:
 
-    d:\3\venv\Scripts\comfy --install-completion
-	d:\3\venv\Scripts\comfy --workspace=d:\3
-	d:\3\venv\Scripts\comfy install
