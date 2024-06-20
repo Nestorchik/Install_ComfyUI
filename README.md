@@ -1,6 +1,6 @@
 # Правильная установка интерфейса "ComfyUI"
 
-> Установка интерфейса командной строки Comfi читай тут:
+> *Про установку интерфейса командной строки Comfi читай тут:*
 >
 > https://github.com/Nestorchik/Install_ComfyUI/blob/main/comfy_cli.md
 ---
