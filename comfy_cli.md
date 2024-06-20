@@ -174,6 +174,26 @@
 
 Как файл "command.com" является "интерпретатором командной строки DOS", там теперь файл "comfy.exe" является "интерпретатором командной строки Comfy".
 
+Не забывайте посматривать на текущие параметры настройки "comfy.exe":
+
+    \venv\Scripts\comfy env
+	
+<p align="center">
+  <img src="img_cli/009.jpg">
+</p>
+	
+Да, еще: при первом запуске (перед созданием файла конфигурации он спросит:
+
+    Do you agree to enable tracking to improve the application? [y/N]: y
+	
+Ответьте "Y".
+
+Это всего лишь парамметр, позволяющий разработчикам вести статистику количества установок Comfy.	
+
+<p align="center">
+  <img src="img_cli/010.jpg">
+</p>
+
 Удачи! )))
 
 Оригинал документации: https://github.com/Comfy-Org/comfy-cli
