@@ -131,7 +131,7 @@
 
 И дальше уже можно запустить только что установленный ComfyUI *(в примере с аргуметом автозапуска браузера)*:
 
-    \venv\Scripts\comfy launch — —auto-launch
+    \venv\Scripts\comfy launch -- --auto-launch
 	
 Собственно и все, что нужно для установки и запуска ComfyUI )))	
 
