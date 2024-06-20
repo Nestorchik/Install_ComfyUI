@@ -1,6 +1,7 @@
 # Правильная установка интерфейса "ComfyUI"
 
-> Основное закончено, потом еще до-полирую.
+> Установка интерфейса командной строки Comfi читай тут:
+> https://github.com/Nestorchik/Install_ComfyUI/blob/main/comfy_cli.md
 ---
 ## Установка Python 3.11
 
